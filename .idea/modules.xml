@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DSA/.idea/DSA.iml" filepath="$PROJECT_DIR$/../DSA/.idea/DSA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Problems_on_DS/.idea/Proble.iml" filepath="$PROJECT_DIR$/../Problems_on_DS/.idea/Proble.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tkinter/.idea/tikenter.iml" filepath="$PROJECT_DIR$/../Tkinter/.idea/tikenter.iml" />
+    </modules>
+  </component>
+</project>
